@@ -3,7 +3,8 @@
 2) To Run the code,
    
  `node BigBangPredictor.js ` 
-4) To output the output.json file in a notepad, 
+ 
+3) To output the output.json file in a notepad, 
 
  `notepad output.json `
    
